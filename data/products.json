@@ -1,0 +1,824 @@
+[
+  {
+    "id": 1,
+    "name": "WordPress果果推送插件",
+    "category": "WordPress插件",
+    "price": 169,
+    "rating": 5,
+    "ratingCount": 61,
+    "sales": 26,
+    "desc": "支持百度搜索引擎的普通、快速抓取、微软Bing搜索引擎、以及IndexNow方式的Api提交链接功能，同时还支持定时提交链接功能。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 2,
+    "name": "WordPress双标题插件",
+    "desc": "支持文章双标题显示，自定义双标题显示模板，支持手动或自动生成文章双标题。",
+    "price": 109,
+    "features": [
+      "支持设置双标题模板，按照自己的方式显示文章双标题",
+      "支持自动解析已是双标题的文章，双标题格式转换就是这么简单",
+      "支持手动生成双标题，再也不怕网站加载慢",
+      "支持自动生成双标题，不想手动生成？那就使用自动生成模式",
+      "如果没有将更新文章原始标题为双标题设置为是，则可以删除已生成的双标题，不满意就重新生成",
+      "支持修改title标签内容为双标题，让搜索引擎抓取到文章的双标题。同时还支持是否在文章列表或详情页面显示文章双标题，保持页面文章可读性",
+      "文章副标题可以从搜索引擎、自定义接口、标题文件文件中获取",
+      "支持将文章标题永久性的修改为双标题，卸载插件后依然可以使用双标题",
+      "支持设置双标题起始文章ID，如果之前的文章本来就是双标题，且不需要本插件处理，可以设置本插件从哪篇文章ID开始处理",
+      "支持设置哪些分类下的文章使用双标题"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/dt-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-7.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/dt-8.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 3,
+    "name": "WordPress文章配图插件",
+    "category": "WordPress插件",
+    "price": 99,
+    "rating": 5,
+    "ratingCount": 113,
+    "sales": 38,
+    "desc": "文章配图插件是一个可以自动给文章创建缩略图、在文章内容里添加图片的插件。",
+    "features": [
+      "支持3种配图方式：背景颜色、本地图片、Pixabay图片",
+      "可以设置在缩略图上是否添加文章标题文字",
+      "支持设置缩略图宽度、高度、背景颜色、文字颜色、文字大小、文字字体等",
+      "支持页面生成缩略图",
+      "文章内容里的图片支持1张或多张，可在开头、中间、结尾、随机位置显示",
+      "本地图片配图支持按分类使用不同文件夹的图片",
+      "支持图片背景虚化，文字更清晰",
+      "Pixabay图片支持搜索文章标题来生成图片，更贴近文章内容",
+      "缩略图上添加文字支持多个字体文件随机使用"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/awp-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/11/awp-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/11/awp-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/11/awp-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/11/awp-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/11/awp-7.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "WordPress隐藏内容插件",
+    "desc": "支持隐藏文章内容的一部分，用户需要关注微信公众号或百家号才可以查看。",
+    "price": 59,
+    "features": [
+      "支持多个自媒体平台（不仅仅是微信公众号，百家号也是可以使用的），只要平台支持关键词回复，就可以使用",
+      "支持设置二维码图片、自定义关键词、验证码、验证码有效期等",
+      "使用js加载技术，静态缓存网站也可以使用",
+      "支持登录、回复（仅限登录用户）可见",
+      "支持隐藏指定分类下的所有文章内容，无需在内容中使用简码隐藏"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-7.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-8.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/08/ch-9.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 5,
+    "name": "WordPress果果加速插件",
+    "desc": "支持文件、Redis、Memcached缓存加速，让页面浏览更快！",
+    "price": 89,
+    "features": [
+      "支持3种缓存方式，是使用文件缓存还是Redis缓存或者Memcached缓存",
+      "可以设置页面内容的缓存有效期",
+      "可以设置缓存哪些GET、COOKIE参数",
+      "可以设置不缓存哪些GET、COOKIE参数",
+      "可以设置不缓存哪些访问链接文件后缀",
+      "支持gzip压缩，减少传输时间和带宽流量",
+      "友好的错误提示文字，让您轻松设置Redis缓存或者Memcached缓存"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-7.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-8.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/07/ggcache-9.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 6,
+    "name": "WordPress图片本地化插件",
+    "desc": "支持将第三方网站图片下载到本地服务器，支持手动或自动执行文章图片本地化，再也不怕文章内容中含有第三方网站图片链接！",
+    "price": 79,
+    "features": [
+      "支持设置指定类型的文章（包括自定义文章类型）或者页面中的内容执行图片本地化",
+      "支持设置指定状态下的文章等内容执行图片本地化，草稿箱中的内容也可以提前下载第三方网站图片",
+      "支持设置需要保存的图片格式、自定义图片匹配规则、请求Cookie、请求超时时间（秒）、是否保存图片至媒体库",
+      "支持图片域名白名单设置，白名单内的图片链接不会处理",
+      "支持设置图片本地化失败时采取的操作，是保留、删除还是替换原图片",
+      "支持手动或自动（显示内容时、发布/更新内容后）执行图片本地化操作，可快速将文章中的第三方网站图片下载到本地服务器，同时将第三方网站图片链接更新为本网站图片链接"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/il-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/il-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/il-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/il-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/05/il-5.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 7,
+    "name": "WordPress果果CMS主题",
+    "desc": "果果cms是基于WordPress开发的超精简的一款主题，它在原有的特性上添加了许多新特性，例如：随机文章、随机标签、随机分类、广告、友情链接等。",
+    "price": 299,
+    "features": [
+      "响应式布局，手机、PC自适应",
+      "主题虽然只支持中文，但是可以通过第三方多语言插件实现网站多语言",
+      "友情链接功能，可以在网站首页展示友情链接",
+      "可设置关闭网站搜索功能，确保网站搜索不被滥用",
+      "广告：支持文字、图片、JavaScript类型的广告，完美支持百度联盟广告",
+      "自定义网站顶部、底部链接导航，不支持二级菜单导航",
+      "SEO友好，全面使用PHP渲染，同时确保正确使用页面html标签",
+      "验证码，支持在评论或登录时设置是否需要验证验证码，确保网站安全",
+      "主题对WordPress基础功能进行了优化，同时支持安装其它插件扩展网站功能"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/04/ggcms-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/04/ggcms-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/04/ggcms-3.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 8,
+    "name": "WordPress果果代码高亮插件",
+    "desc": "本插件添加了TinyMCE编辑器自带的Code Sample（代码示例）插件、Table（表格）插件，可在文章写作中使用代码示例以及表格功能。",
+    "price": 19,
+    "features": [
+      "支持设置启用哪些编程语言需要代码高亮，不用的编程语言就不需要显示",
+      "支持设置在网站前台引入代码高亮文件，如果您的网站已经引用了代码高亮的文件，则不需要重复引入",
+      "支持设置是否启用表格功能，不用表格功能可关闭"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/ggcode-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/ggcode-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/ggcode-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/ggcode-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20221127170104.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 9,
+    "name": "WordPress文章自动标签插件",
+    "desc": "如果文章没有标签，可以通过本插件自动给文章生成标签，同时支持在文章内容里添加标签链接。",
+    "price": 88,
+    "features": [
+      "可以使用3种分词模式生成标签：PHP分词、SCWS中文分词、结巴中文分词",
+      "可以设置使用文章的哪些字段（标题与内容）内容来生成标签",
+      "可以设置标签最少字数，每篇文章最多标签个数限制，以及限制标签是否只能为中文或者英文",
+      "支持在文章内容页将标签设为SEO关键字、将文章摘要设为SEO描叙",
+      "支持在文章内容里显示标签链接（文章内链），单个标签链接可以设置替换一次还是多次，同时还可以设置标签链接代码模板",
+      "支持文章、自定义文章类型的文章生成标签，当然也可以生成自定义标签类型的标签"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/aat-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/aat-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/aat-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/aat-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/aat-5.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 10,
+    "name": "WordPress网站配文插件",
+    "category": "WordPress插件",
+    "price": 399,
+    "rating": 5,
+    "ratingCount": 63,
+    "sales": 42,
+    "desc": "通过本插件，可以快速为网站创建大量的文章，有利于增加网站整体收录量，进而可以提升网站的流量以及权重。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 11,
+    "name": "WordPress违禁词过滤插件",
+    "desc": "本插件可以过滤文章、页面、评论中的违禁词，确保网站内容不会出现违规词语，减轻或避免网站被封的几率。",
+    "price": 97,
+    "features": [
+      "支持文章、页面、评论、自定义文章类型的内容处理，其中评论只能过滤评论内容中的违禁词，其它类型的可以过滤标题、摘要、内容中的违禁词",
+      "支持自定义词库、手动导入词库功能，同时，违禁词也支持使用正则表达式",
+      "可将内容中出现的违禁词替换或者删除，当然，也可以将内容设为待审核状态或者移至回收站",
+      "支持将过滤后的内容更新到数据库表，卸载插件后依然可以使用",
+      "支持自动过滤，可以在显示内容时或者发布/更新内容后进行过滤，同时也支持手动过滤"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2023/04/pw-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/04/pw-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/04/pw-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/04/pw-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/04/pw-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/04/pw-6.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 12,
+    "name": "WordPress果果优化插件",
+    "desc": "果果优化插件是一款可以优化WordPress系统功能的插件，可以通过插件禁用掉一些不常用的WordPress功能，例如：WordPress Feed、WordPress Emojis、WordPress Pingback、WordPress wp-json等功能。禁用这些功能后，可以有效提升网站的性能。",
+    "price": 119,
+    "features": [
+      "可以禁用WordPress Feed、Emojis、Pingback、oEmbed、Auto Embed、搜索、Heartbeat、wp-json、自动更新",
+      "可以移除WordPress 仪表盘小组件、评论链接、body标签上的class属性、版本号、系统自带样式、页面中的meta元素",
+      "可以隐藏WordPress 前台页面顶部导航栏、后台页面底部文字",
+      "可以限制文章列表分页，避免网站数据通过列表被采集"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2023/08/ggyh-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/08/ggyh-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/08/ggyh-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/08/ggyh-4.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 13,
+    "name": "WordPressSEO模板伪原创插件",
+    "desc": "通过对主题模板HTML元素添加新的class或者id属性，让您的网站主题模板变为全网唯一模板，提升网站页面在搜索引擎的原创度。",
+    "price": 69,
+    "features": [
+      "可以选择添加class或者id属性值",
+      "生成的属性值可以选择静态（固定不变）或者动态（每次变化）2种模式",
+      "生成的属性值可以设置前缀",
+      "生成的属性值可以设置段数以及每段的长度",
+      "可以设置在全部元素或者指定元素上添加属性值",
+      "class属性值还可以设置位置，生成的属性值是放在开头、结尾还是随机",
+      "如果页面输出乱码，可以设置网站使用的编码，确保页面不乱码",
+      "支持页面格式化功能，开启后，页面源代码格式化到一行，可以减少页面文件大小"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2023/12/template-original-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/12/template-original-2.jpg",
+      "https://www.ggdoc.cn/wp-content/uploads/2023/12/template-original-3.jpg"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 14,
+    "name": "WordPress文章推荐插件",
+    "category": "WordPress插件",
+    "price": 99,
+    "rating": 5,
+    "ratingCount": 30,
+    "sales": 20,
+    "desc": "支持在文章内容底部和网站侧边栏推荐最新文章、随机文章、相关文章、最新标签、随机标签、文章标签。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 15,
+    "name": "WordPress果果安全卫士插件",
+    "desc": "果果安全卫士是一款支持统计和防护2大功能的插件。统计功能支持全球IP（IPv4和IPv6）定位，可以定位到地级行政区。防护功能支持IP拦截、地区拦截、UserAgent拦截，同时支持限速拦截。",
+    "price": 159,
+    "features": [
+      "网站开启了代理、网站使用了静态缓存，都可以使用插件统计IP",
+      "支持全球IP（IPv4和IPv6）定位，可以获取到IP对应的地区。IP定位功能不依赖于第三方接口，放心使用",
+      "支持设置搜索引擎蜘蛛IP，哪些IP为蜘蛛IP，插件设置那可以自由设置",
+      "支持查看IP访问记录、IP统计、蜘蛛统计、浏览器统计、系统统计、URI统计、地区统计、来源统计、按天统计等功能",
+      "支持蜘蛛IP优先放行、IP访问次数限制（一段时间内）、访问链接长度限制、拦截UserAgent为空",
+      "支持验证IP、验证地区、验证UserAgent、验证来源页面链接。白名单与黑名单功能区别：白名单是设置全部都通过验证，才算通过白名单验证。通过白名单验证的IP将会被放行，可以正常浏览网站。黑名单是只要有1个设置通过验证，就算通过黑名单验证。通过黑名单验证的IP将会被拦截，不可以浏览网站",
+      "IP被拦截后，可以设置自定义响应状态码。状态码为301和302，可以设置IP拦截后，跳转到指定链接。状态码为200和503，可以设置IP拦截后，显示自定义拦截信息"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/02/ggsafe-20240220.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-7.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-8.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-9.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-10.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-11.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-12.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-13.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-14.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-15.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-16.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-17.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-18.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-19.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-20.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-21.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/01/ggsafe-22.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 16,
+    "name": "WordPress数据库查询缓存插件",
+    "desc": "将MySQL查询语句执行完后的结果缓存至文件、Redis、Memcached，当再次查询时，直接从缓存中读取结果，让页面浏览更快！",
+    "price": 89,
+    "features": [
+      "支持3种缓存方式：文件缓存、Redis缓存、Memcached缓存",
+      "跨页面缓存。不同的页面执行相同的数据库查询语句时，可以跨页面读取结果"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/02/database-query-cache-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/02/database-query-cache-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/02/database-query-cache-3.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 17,
+    "name": "WordPress微信公众号同步助手插件",
+    "category": "WordPress插件",
+    "price": 139,
+    "rating": 5,
+    "ratingCount": 59,
+    "sales": 50,
+    "desc": "将网站文章同步至微信公众号，或者将微信公众号文章同步至网站。同步文章支持自动同步、手动同步2种方式。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 18,
+    "name": "WordPress广告赚钱插件",
+    "desc": "可以在文章内容里添加文字、图片、自定义（JavaScript、百度联盟等）广告，从而实现网站靠广告赚钱。",
+    "price": 39,
+    "features": [
+      "支持文字、图片、自定义（JavaScript、百度联盟等）广告",
+      "文字和图片广告支持设置跳转链接，链接可以设置为打开QQ、发送邮件、打电话",
+      "文字和图片广告支持设置对齐方式，左对齐、居中还是右对齐",
+      "广告可以设置显示在文章内容里哪个位置，可以选择开头、开头（后）、中间、结尾（前）、结尾、随机"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ad-make-money-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ad-make-money-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ad-make-money-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ad-make-money-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ad-make-money-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ad-make-money-6.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 19,
+    "name": "WordPress果果SEO优化插件",
+    "desc": "可以在网站页面源代码中添加关键字、描叙、落地页时间因子、360搜索智能摘要等meta元素，这样做有助于提高网站在搜索引擎中的排名和可见度，从而吸引更多的潜在用户。",
+    "price": 59,
+    "features": [
+      "支持设置默认关键词（keywords）、默认描叙（description）、默认图片（og:image），让所有前台页面都可以加上关键词和描叙",
+      "支持设置页面是否添加关键词（keywords）、描叙（description）、头条搜索时间因子、360搜索智能摘要，不想添加的就不启用"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ggseo-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/03/ggseo-2.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 20,
+    "name": "WordPress自动引流跳转插件",
+    "desc": "如果想要将网站流量引流至其它网站，或者想要将网站流量变现，均可以使用本插件。插件可以对网站特定的访问用户，实行引流跳转。",
+    "price": 119,
+    "features": [
+      "支持对蜘蛛、非蜘蛛、电脑、手机、来源页面链接、IP、UserAgent的访问进行引流跳转",
+      "支持在哪个时间段内进行跳转",
+      "支持完全跳转、随机跳转、跳转1次，随机跳转支持设置跳转概率，跳转1次支持设置有效期，在有效期内只跳转1次",
+      "支持301（永久性重定向）和302（临时性重定向）跳转",
+      "跳转链接支持设置多个，可以随机跳转到某个链接"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/04/ar-1.jpg",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/04/ar-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/04/ar-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/04/ar-4.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 21,
+    "name": "WordPress内容替换插件",
+    "desc": "可以将文章、页面、评论、数据库表等内容中的文字替换或者删除，插件不仅支持普通文字替换或者删除，还支持使用正则表达式替换或者删除文字。",
+    "price": 99,
+    "features": [
+      "支持替换文章、自定义文章类型、分类、标签、媒体库、页面里面的标题、内容、摘要3个字段内容",
+      "支持替换评论里面的显示名称、评论内容2个字段内容",
+      "支持替换指定数据库中表里面字段的内容，同时可以设置字段的过滤方式",
+      "支持ini、json、xml3种替换规则，如果替换内容中使用到了正则表达式，推荐使用json或者xml格式",
+      "支持测试替换规则，确保替换规则配置无问题"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cr-7.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 22,
+    "name": "WordPress内容付费插件",
+    "desc": "支持隐藏文章内容的一部分或者隐藏指定分类下的所有文章，用户需要付费后才可以查看。",
+    "price": 129,
+    "features": [
+      "支持沙箱环境测试插件功能",
+      "支持密钥与证书2种加签模式",
+      "使用js加载技术，静态缓存网站也可以使用",
+      "支持游客购买",
+      "支持指定分类下的文章全部设置为内容付费"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cp-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cp-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cp-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cp-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cp-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/09/cp-6.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 23,
+    "name": "WordPress免费证书插件",
+    "desc": "为了在您的网站上启用HTTPS，您可以使用本插件快速获取Let’s Encrypt免费证书。",
+    "price": 99,
+    "features": [
+      "支持快速申请Let’s Encrypt免费证书",
+      "支持通配符证书申请，每个证书最多可以绑定100个域名",
+      "支持自动续期证书",
+      "支持重颁发证书，证书过期或失效后，可以快速重新申请",
+      "支持吊销证书",
+      "域名支持文件验证和DNS验证，其中通配符域名只支持DNS验证"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-4.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-7.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-8.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/fs-9.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 24,
+    "name": "WordPress果果七牛云对象存储插件",
+    "desc": "将网站上的图片等静态资源文件上传至七牛云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。",
+    "price": 66,
+    "features": [
+      "支持将网站静态文件上传至七牛云对象存储，同时将网站链接替换为对象存储返回的链接",
+      "可以限制上传文件的格式，哪些文件上传至对象存储",
+      "支持自动上传文件，文件没有上传至对象存储时，在显示文件链接时上传",
+      "支持上传第三方网站文件，插件会将第三方网站文件下载下来后，再上传至对象存储。支持域名白名单设置，避免上传已加速的其它静态文件",
+      "支持删除本地文件，上传至对象存储后，可以将本地服务器上的文件删掉",
+      "支持发布或更新文章后，自动将文章内容中的图片上传至对象存储",
+      "支持手动将文章中的图片批量上传至对象存储"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggkodo-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggkodo-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/test.png，则上传至对象存储的链接为http(s)://CDN域名/wp-content/uploads/2022/11/test.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 25,
+    "name": "WordPress果果阿里云对象存储插件",
+    "desc": "将网站上的图片等静态资源文件上传至阿里云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。",
+    "price": 66,
+    "features": [
+      "支持将网站静态文件上传至阿里云对象存储，同时将网站链接替换为对象存储返回的链接",
+      "可以限制上传文件的格式，哪些文件上传至对象存储",
+      "支持自动上传文件，文件没有上传至对象存储时，在显示文件链接时上传",
+      "支持上传第三方网站文件，插件会将第三方网站文件下载下来后，再上传至对象存储。支持域名白名单设置，避免上传已加速的其它静态文件",
+      "支持删除本地文件，上传至对象存储后，可以将本地服务器上的文件删掉",
+      "支持发布或更新文章后，自动将文章内容中的图片上传至对象存储",
+      "支持手动将文章中的图片批量上传至对象存储"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggoss-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggoss-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggoss-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/test.png，则上传至对象存储的链接为http(s)://自定义域名/wp-content/uploads/2022/11/test.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 26,
+    "name": "WordPress果果腾讯云对象存储插件",
+    "desc": "将网站上的图片等静态资源文件上传至腾讯云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。",
+    "price": 66,
+    "features": [
+      "支持将网站静态文件上传至腾讯云对象存储，同时将网站链接替换为对象存储返回的链接",
+      "可以限制上传文件的格式，哪些文件上传至对象存储",
+      "支持自动上传文件，文件没有上传至对象存储时，在显示文件链接时上传",
+      "支持上传第三方网站文件，插件会将第三方网站文件下载下来后，再上传至对象存储。支持域名白名单设置，避免上传已加速的其它静态文件",
+      "支持删除本地文件，上传至对象存储后，可以将本地服务器上的文件删掉",
+      "支持发布或更新文章后，自动将文章内容中的图片上传至对象存储",
+      "支持手动将文章中的图片批量上传至对象存储"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggcos-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggcos-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggcos-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/test.png，则上传至对象存储的链接为http(s)://自定义域名/wp-content/uploads/2022/11/test.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 27,
+    "name": "WordPress果果华为云对象存储插件",
+    "desc": "将网站上的图片等静态资源文件上传至华为云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。",
+    "price": 66,
+    "features": [
+      "支持将网站静态文件上传至华为云对象存储，同时将网站链接替换为对象存储返回的链接",
+      "可以限制上传文件的格式，哪些文件上传至对象存储",
+      "支持自动上传文件，文件没有上传至对象存储时，在显示文件链接时上传",
+      "支持上传第三方网站文件，插件会将第三方网站文件下载下来后，再上传至对象存储。支持域名白名单设置，避免上传已加速的其它静态文件",
+      "支持删除本地文件，上传至对象存储后，可以将本地服务器上的文件删掉",
+      "支持发布或更新文章后，自动将文章内容中的图片上传至对象存储",
+      "支持手动将文章中的图片批量上传至对象存储"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggobs-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggobs-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggobs-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/test.png，则上传至对象存储的链接为http(s)://自定义域名/wp-content/uploads/2022/11/test.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 28,
+    "name": "WordPress果果百度云对象存储插件",
+    "desc": "将网站上的图片等静态资源文件上传至百度云对象存储，可以减轻服务器文件存储压力，提升静态文件访问速度，从而加速网站访问速度。",
+    "price": 66,
+    "features": [
+      "支持将网站静态文件上传至百度云对象存储，同时将网站链接替换为对象存储返回的链接",
+      "可以限制上传文件的格式，哪些文件上传至对象存储",
+      "支持自动上传文件，文件没有上传至对象存储时，在显示文件链接时上传",
+      "支持上传第三方网站文件，插件会将第三方网站文件下载下来后，再上传至对象存储。支持域名白名单设置，避免上传已加速的其它静态文件",
+      "支持删除本地文件，上传至对象存储后，可以将本地服务器上的文件删掉",
+      "支持发布或更新文章后，自动将文章内容中的图片上传至对象存储",
+      "支持手动将文章中的图片批量上传至对象存储"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggbos-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggbos-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2024/10/ggbos-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2022/11/test.png，则上传至对象存储的链接为http(s)://自定义域名/wp-content/uploads/2022/11/test.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 29,
+    "name": "WordPress果果AI创作插件",
+    "category": "WordPress插件",
+    "price": 149,
+    "rating": 5,
+    "ratingCount": 57,
+    "sales": 22,
+    "desc": "果果AI创作集成了百度千帆大模型、讯飞星火大模型、火山方舟大模型、阿里云百炼大模型、腾讯混元大模型、DeepSeek大模型、Google Gemini大模型、ChatGPT大模型、自定义大模型，通过导入文章标题，就可以生成文章内容的AI创作插件。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 30,
+    "name": "WordPress标签导入插件",
+    "desc": "可以将txt里的标签或者分类导入到网站，同时支持标签和分类关联文章。",
+    "price": 79,
+    "features": [
+      "支持导入上传的TXT文件或者导入指定文件夹下的标签或分类文件",
+      "支持导入至分类、标签、自定义分类、自定义标签",
+      "支持导入进来的分类或者标签关联已有的文章内容，可以随机关联文章内容，或者完整关联文章内容",
+      "可以设置标签或者分类关联的文章类型（匹配内容）、完整关联还支持设置匹配字段（标题或者内容），同时还支持设置最大的文章关联数量"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/01/tag-1.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 31,
+    "name": "WordPress生成长尾关键词插件",
+    "desc": "通过导入关键词，然后从搜索引擎获取到相关的长尾关键词，最后将长尾关键词导出至文件、数据库表、分类、标签来使用。",
+    "price": 79,
+    "features": [
+      "支持从百度、360、搜狗、头条、必应、Yandex、Google获取长尾关键词",
+      "支持寄生模式，只需要导入少量的关键词，就可以源源不断的获取更多长尾关键词",
+      "支持自动获取长尾关键词，可以周期性的获取长尾关键词数据。当然，也支持手动获取长尾关键词数据",
+      "关键词可以手动填写添加或者导入关键词文件添加",
+      "支持导出长尾关键词数据，可以将长尾关键词导出至文件、数据库表、分类、标签来使用"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/ltk-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/ltk-2.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 32,
+    "name": "WordPress定时发布插件",
+    "desc": "将网站后台发布的文章、通过REST API发布的文章、草稿箱内的文章进行定时发布，确保网站每天都可以有新文章发布。",
+    "price": 39,
+    "features": [
+      "通过后台发布、REST API发布、其它方式发布的新文章，可以设置多少分钟后或者随机多少分钟后发布，而不是立即发布文章",
+      "支持定时将草稿箱内的文章发布，文章可以先存进草稿箱，然后用插件周期性的定时发布文章"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/sc-1.jpg"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 33,
+    "name": "WordPress自动别名插件",
+    "desc": "可以给文章、自定义文章、页面、标签、自定义标签、分类、自定义分类设置个性化别名，帮助您的网站在搜索引擎中有更好的排名。",
+    "price": 79,
+    "features": [
+      "支持文章、自定义文章、分类、自定义分类、标签、自定义标签使用自动别名功能",
+      "别名规则有3种，随机字符串、拼音、英文（将中文翻译成英文，支持百度翻译、腾讯云翻译、火山翻译3个翻译API）",
+      "支持对之前的文章或者分类等重新生成别名，确保内容别名规则一致"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-2.jpg",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-4.jpg",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-5.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-6.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/03/apn-7.jpg"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 34,
+    "name": "WordPress果果SHOP主题",
+    "category": "WordPress主题",
+    "price": 199,
+    "rating": 5,
+    "ratingCount": 27,
+    "sales": 20,
+    "desc": "果果SHOP是一款专为虚拟资源商城打造的现代化WordPress主题，采用响应式设计，完美适配各种设备屏幕尺寸。主题集成了自动发货功能，让您的虚拟商品交易更加高效便捷。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 35,
+    "name": "WordPress果果DOWNLOAD主题",
+    "category": "WordPress主题",
+    "price": 199,
+    "rating": 5,
+    "ratingCount": 29,
+    "sales": 30,
+    "desc": "果果DOWNLOAD是一款专为虚拟资源下载打造的现代化WordPress主题，采用响应式设计，完美适配各种设备屏幕尺寸。主题集成了付费下载功能，让您的虚拟资源变现更加高效便捷。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 36,
+    "name": "WordPress果果UEditor编辑器插件",
+    "desc": "果果UEditor编辑器是基于百度UEditor深度开发的WordPress专业级富文本编辑器插件，可完美替换WordPress网站后台默认的编辑器，为内容创作者提供更强大、更高效的编辑体验。",
+    "price": 59,
+    "features": [
+      "支持多种语言，自带中文和英文，其它语言需要自行翻译",
+      "可以在主流浏览器（Chrome、Firefox、Safari等浏览器）上使用",
+      "有丰富的编辑功能，例如格式化、对齐、文件上传、表格、代码高亮等功能",
+      "图片处理支持支持本地上传、在线图片管理、图片裁剪、粘贴自动上传（从Word或网页直接粘贴图片）等功能",
+      "支持HTML源码编辑模式，实时预览内容效果",
+      "内容自动保存功能"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/08/ggueditor-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/08/ggueditor-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/08/ggueditor-3.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 37,
+    "name": "WordPress果果TinyMCE编辑器插件",
+    "category": "WordPress插件",
+    "price": 59,
+    "rating": 5,
+    "ratingCount": 69,
+    "sales": 42,
+    "desc": "果果TinyMCE编辑器是基于TinyMCE深度开发，支持高级排版、表格、代码块、图片上传等功能，让内容创作更流畅、更专业。",
+    "features": [],
+    "images": []
+  },
+  {
+    "id": 38,
+    "name": "WordPress果果文件优化插件",
+    "desc": "果果文件优化插件有禁止网站生成不同尺寸的图片、图片加水印、图片压缩与格式转换、文件重命名等功能。",
+    "price": 79,
+    "features": [
+      "可以禁止生成不同尺寸的图片",
+      "可以禁用缩略图等图片上的响应式图片（srcset属性），移除图片上的其它属性",
+      "上传的图片可以加文字或者图片水印",
+      "文字水印可以设置字体文件、文字颜色、文字大小、透明度、被度量的角度大小、水印位置、图片加水印最低宽高、水印边距",
+      "图片水印可以设置图片水印宽度、合并程度、水印位置、图片加水印最低宽高、水印边距",
+      "上传的图片可以压缩，支持jpg、webp、png、bmp",
+      "图片格式转换，可以将上传的图片格式转为jpg、webp、png、bmp",
+      "可以修改上传文件的文件存储位置，默认wordpress可以以年月的形式存放文件，通过本插件可以设置为年月日的目录形式存放文件",
+      "文件改名，上传的文件可以重命名"
+    ],
+    "images": [
+      "https://www.ggdoc.cn/wp-content/uploads/2025/09/ggfo-1.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/09/ggfo-2.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/09/ggfo-3.png",
+      "https://www.ggdoc.cn/wp-content/uploads/2025/09/ggfo-4.png"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 39,
+    "name": "PHP文件快转在线工具系统",
+    "desc": "一站式在线文件转换 + AI 工具箱系统源码。文档/图片/音视频格式转换 + 35款浏览器端 AI 工具 + 免费 SSL 证书申请 + VIP 会员变现，87 款工具开箱即建站。",
+    "price": 7999,
+    "features": [
+      "文档格式转换（服务器端转换，异步任务队列）",
+      "音视频与图片处理（浏览器本地处理，文件不上传服务器）",
+      "AI 工具（35 款，全部浏览器端推理，零 GPU 服务器成本）",
+      "SSL 证书（自研 ACME 客户端，差异化功能）",
+      "网络与实用工具",
+      "用户与会员体系",
+      "后台管理",
+      "SEO 优化",
+      "小程序与App"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 40,
+    "name": "PHP果果源码销售系统",
+    "desc": "果果源码是专门售卖源码的网站平台，提供源码商城 + 自动发货 + 支付宝在线支付闭环，一套真实运营验证过的商业化源码销售系统。",
+    "price": 799,
+    "features": [
+      "前台商城",
+      "购买与发货",
+      "会员中心",
+      "后台管理",
+      "SEO 优化"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 41,
+    "name": "PHP在线文档/知识库系统",
+    "desc": "一套开箱即用的 PHP 文档站/知识库建站源码：前台展示 + 后台管理 + 开放 API 三位一体，内置 SEO 推送与站点地图，部署简单、数据完全自主可控。适合个人站长快速搭建文档站、教程站、知识付费站点并参与搜索引擎流量变现。",
+    "price": 999,
+    "features": [
+      "文档管理：多文档/多章节结构，支持缩略图、章节数统计、状态控制，类似在线书籍/教程的组织方式",
+      "文章管理：TinyMCE 富文本编辑、图片上传、关键词与描述设置，适合博客/资讯内容",
+      "分类、标签、FontAwesome 图标库管理，内容组织灵活",
+      "提供文章、文档、章节的远程发布接口与图片上传接口，方便对接采集、批量发布或自动化工具"
+    ],
+    "fetchedAt": "2026-11-10"
+  },
+  {
+    "id": 42,
+    "name": "文字图片转视频源码",
+    "desc": "把「一段文案 + 几张图片」自动变成带配音、字幕、运镜和转场的成片视频，Windows 桌面软件，Python 全源码交付。",
+    "price": 699,
+    "features": [
+      "文案转视频：把多段文案逐段朗读并配图，合成一条 mp4",
+      "语音合成：在线音色与离线系统语音双引擎，auto 模式失败自动切换",
+      "字幕烧录：可选择是否把字幕直接烧进画面",
+      "背景音乐：自动循环并在结尾淡出，音量可调",
+      "多图轮播：每段一张图或按设定秒数多图轮播",
+      "转场效果：支持 fade、dissolve、slideleft、slideup、circleopen 等，时长可调",
+      "片头片尾：支持标题、副标题、时长、配图和配音文字的片头片尾卡片"
+    ],
+    "fetchedAt": "2026-11-10"
+  }
+]

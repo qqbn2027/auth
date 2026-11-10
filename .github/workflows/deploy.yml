@@ -1,0 +1,70 @@
+name: Build & Deploy Pages + IndexNow
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 2 * * *'   # 每天 UTC 2:00（北京时间 10:00）自动检查官网是否有新源码
+  workflow_dispatch:       # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # 抓取官网产品数据（自动发现新增源码）
+      - name: Fetch products
+        run: node scripts/fetch-products.mjs
+
+      # 生成静态页面
+      - name: Build pages
+        run: node scripts/build.mjs
+
+      # 仅在定时/手动触发时提交数据变化（push 触发时不提交，避免循环）
+      - name: Commit data changes
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ || true
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: 自动更新产品数据 [skip ci]" --no-verify
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # 部署完成后推送新增/变化的 URL 到 IndexNow
+      - name: IndexNow push
+        run: node scripts/indexnow.mjs

@@ -1,0 +1,11 @@
+{
+  "siteUrl": "https://qqbn2027.github.io/auth",
+  "mainSite": "https://auth.ggdoc.cn",
+  "siteName": "果果源码",
+  "siteDesc": "精选电商源码、下载系统源码、CMS 建站源码、插件源码资源，购买后自动发货，附带完整使用教程。",
+  "productCount": 42,
+  "indexNow": {
+    "key": "1107aeb69d40d1fe4cbe13a04cdbf4c3",
+    "endpoint": "https://api.indexnow.org/indexnow"
+  }
+}

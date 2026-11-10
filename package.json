@@ -1,0 +1,14 @@
+{
+  "name": "ggdoc-source-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "果果源码 GitHub Pages SEO 推广站：产品页生成、IndexNow 推送、自动发现新产品",
+  "scripts": {
+    "fetch": "node scripts/fetch-products.mjs",
+    "build": "node scripts/build.mjs",
+    "indexnow": "node scripts/indexnow.mjs",
+    "indexnow:all": "node scripts/indexnow.mjs --all",
+    "all": "npm run fetch && npm run build && npm run indexnow"
+  }
+}
